@@ -5,7 +5,7 @@ about:
   head: ec7fe60
   archived: false
   latestVersion: "v2.10.5"
-  collectedAt: 2026-09-07T05:35:06Z
+  collectedAt: 2026-09-07T18:50:50Z
 timeline:
   created: 2021-01-26
   lastCommit: 2026-02-25
@@ -83,7 +83,7 @@ total:
   commit: 1783
 ---
 path: /home/runner/.x-repo/github.com/kubefirst/kubefirst
-collectedAt: 2026-09-07T05:35:14Z
+collectedAt: 2026-09-07T18:50:54Z
 loc:
   Go:
     code: 7386
@@ -129,7 +129,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:35:15+00:00
+  collectedAt: 2026-09-07T18:50:55+00:00
   platform:
     darwin/arm64:
       name:  kubefirst_2.10.5_darwin_arm64.tar.gz
