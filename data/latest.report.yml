@@ -5,7 +5,7 @@ about:
   head: ec7fe60
   archived: false
   latestVersion: "v2.10.5"
-  collectedAt: 2026-09-08T02:47:16Z
+  collectedAt: 2026-09-08T05:35:15Z
 timeline:
   created: 2021-01-26
   lastCommit: 2026-02-25
@@ -83,7 +83,7 @@ total:
   commit: 1783
 ---
 path: /home/runner/.x-repo/github.com/kubefirst/kubefirst
-collectedAt: 2026-09-08T02:47:20Z
+collectedAt: 2026-09-08T05:35:19Z
 loc:
   Go:
     code: 7386
