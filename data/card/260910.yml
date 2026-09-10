@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.10.5"
   latestRelease: "v2.10.5"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:41:02Z
+  collectedAt: 2026-09-10T23:04:13Z
 timeline:
   created: 2021-01-26
   lastCommit: 2026-02-25
@@ -87,7 +87,7 @@ total:
   commit: 1783
 ---
 path: /home/runner/.x-repo/github.com/kubefirst/kubefirst
-collectedAt: 2026-09-10T20:41:07Z
+collectedAt: 2026-09-10T23:04:21Z
 loc:
   Go:
     code: 7386
