@@ -4,7 +4,7 @@
 
 The Kubefirst Open Source Platform
 
-![kubefirst](https://repo.x-cmd.io/kubefirst.svg)
+[![x-cmd/install — kubefirst Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kubefirst.svg)](https://x-cmd.com/install/kubefirst)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **7,885** lines of code across **85** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,058 · **Forks**: 159 · **Open issues**: 1,007 · **Contributors**: 30
+- **Stars**: 2,059 · **Forks**: 159 · **Open issues**: 1,007 · **Contributors**: 30
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **7,885** lines of code across **85** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-28 | 22 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-30 | 22 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for kubefirst lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:02:13Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:54:32Z._
