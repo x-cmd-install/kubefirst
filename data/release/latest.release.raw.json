@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 71573901,
       "digest": "sha256:f8d557a1b1a94e699e5906cffef85b1c2ba00d048601aa19c8a7f95dd5cedf82",
-      "download_count": 124,
+      "download_count": 125,
       "created_at": "2026-01-31T05:12:04Z",
       "updated_at": "2026-01-31T05:12:06Z",
       "browser_download_url": "https://github.com/konstructio/kubefirst/releases/download/v2.10.5/kubefirst_2.10.5_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 67481110,
       "digest": "sha256:2711443890435853722b04041afa5911972a3ffe5306fb37575e145f15b02c68",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-01-31T05:12:04Z",
       "updated_at": "2026-01-31T05:12:06Z",
       "browser_download_url": "https://github.com/konstructio/kubefirst/releases/download/v2.10.5/kubefirst_2.10.5_linux_arm64.tar.gz"
